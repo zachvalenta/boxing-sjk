@@ -1,0 +1,21 @@
+{
+	"fighers": ["Crawford", "Molina"],
+	"division": 140,
+	"fight_date": "2016.12.09",
+	"date_watched": "2017.12.16",
+	"scoring": {
+		"fighter1": [],
+		"fighter2": [],
+		"even": []
+	},
+	"comments_by_round": {
+		"2": [
+			"Molina landed something! bit of Maidana devil-may-care puncher; weird body movement, too",
+			"Molina's best tactic is get hit, lower head, through over the top"
+		],
+		"misc": [
+			"Crawford catching Molina w/ some flat-footed shots through in rhythmic breaks",
+			"Roy is right; those body shots won the day"
+		]
+	}
+}

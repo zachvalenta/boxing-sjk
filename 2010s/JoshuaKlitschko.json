@@ -1,0 +1,62 @@
+{
+	"fighters": ["Joshua", "Klitschko"],
+	"division": 250,
+	"fight_date": "2017.04.29",
+	"date_watched": "2018.02.17",
+	"scoring": {
+		"fighter1": [1,3,11],
+		"fighter2": [6,7,10],
+		"even": [2,4,5,8,9]
+	},
+	"themes": [
+		"Klitschko's energy",
+		"Joshua's boxing right there with Klitschko",
+		"classic rounds: 5,"
+	],
+	"comments_by_round": {
+		"1": [
+			"opening minute Joshua with a left hook and jab to the body",
+			"Migos coming on after the round is a special moment"
+		],
+		"2": [
+			"good right at 2:50 from Klitschko, pulled down Joshua's left with his own",
+			"Klitschko doesn't anything heavy the rest of the round but seems to control it a bit more",
+			"Joshua smart going to the body"
+		],
+		"3": [
+			"tries the same pull-the-left-and-throw-the-right out of the gate here as well",
+			"Joshua aggressive, bringing pressure but not careless",
+			"Klitschko's corner is right, he needs to deter Joshua"
+		],
+		"4": [
+			"Klitschko pulls the same move *again* and it works again",
+			"strong rights from Joshua",
+			"Klitschko's jaw only pawing, not trying to score with it"
+		],
+		"5": [
+			"don't see what Joshua lands in that initial exchange that starts all the trouble for Klitschko",
+			"Joshua goes into a rumble drill and wisely throws caution to the wind a bit",
+			"Klitschko lands a leaping left that turns the tide somewhat",
+			"Roy Jim and Max are so excited, the moment so big, that they yelp over each other",
+			"can see in Joshua's exhales that he's gassed halfway through this round",
+			"Klitschko thrown the extended left near 10 times halfway through this round",
+			"Klitschko lands two or three left hooks in a row",
+			"don't even know how to score this round; Joshua wins first half Klitschko the second, Joshua looked ready to go at round's end",
+			"Klitschko hurt by the left hook after the tangle to start the round"
+		],
+		"6": [
+			"amazing right from Klitschko",
+			"Joshua leaning forward, covering up and trying to rope Vladimir in when he comes, Klitschko looking for right uppercut now"
+		],
+		"7": [
+			"Klitschko jabbing to score now",
+			"Joshua resting, Klitschko letting him rest, scoring with the jab, maybe resting a bit himself"
+		],
+		"9": [
+			"RJJ amazed that Klitschko winning with lateral movement; need to watch his older fights, know that he's know for holding"
+		]
+		"10": [
+			"RJJ chuffed w/ Klitschko's energy and bouncing about"
+		]
+	}
+}

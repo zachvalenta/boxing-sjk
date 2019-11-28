@@ -1,0 +1,32 @@
+{
+	"fighers": ["Lomachenko", "Rigondeaux"],
+	"division": 130,
+	"fight_date": "2017.12.09",
+	"date_watched": "2017.12.09",
+	"scoring": {
+		"fighter1": [2,3,4,5,6],
+		"fighter2": [],
+		"even": [1]
+	},
+	"comments_by_round": {
+		"2": [
+			"Loma is fast but kinda amazing that he can bait Rigo to throw, hard, and get out of the way",
+			"telling exchange in the middle of the round, Loma touches Rigo with body jab, Rigo comes back and Loma makes him miss by a hair",
+			"Loma making more hay with his jab than normal",
+			"Rigo engaged but Loma brimming w/ concentration, confidence"
+		],
+		"3": [
+			"when Rigo throws that jab with more conviction everything else flows better for him",
+			"when Rigo goes down and sideways Loma just sidles up and throws to the body",
+			"that triple uppercut",
+			"Rigo's corner not happy"
+		],
+		"4": ["amazing; Rigo standing in the Mayweather counter-right stance and Loma jabs him and ducks the counter"],
+		"5": [
+			"left to the body from Rigo to start the round",
+			"Loma can't do much with Rigo but Rigo can't do anything w/ him"
+		]
+
+
+	}
+}

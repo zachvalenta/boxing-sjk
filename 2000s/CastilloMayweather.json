@@ -1,0 +1,16 @@
+{
+	"fighers": ["Castillo", "Mayweather"],
+	"division": 135,
+	"fight_date": "2002.04.20",
+	"date_watched": "2018.05.05",
+	"scoring": {
+		"fighter1": [7, 10],
+		"fighter2": [1,2,3,4,5,6,8,9],
+		"even": [11,12]
+	},
+	"comments_by_round": {
+		"12": [
+			"Castillo won 2 rounds (forget which), Mayweather took everything else"
+		],
+	}
+}

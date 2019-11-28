@@ -1,0 +1,29 @@
+{
+	"fighers": ["Saunders", "Lemieux"]
+	"division": 160,
+	"fight_date": "2017.12.16",
+	"date_watched": "2017.12.17",
+	"scoring": {
+		"fighter1": [1-],
+		"fighter2": [],
+		"even": []
+	}
+	"comments_by_round": {
+		"2": ["Lemieux not doing anything wrong per se, Saunders just slicker"],
+		"3": ["good point from Roy: until Lemieux can keep that back left foot of Saunders in place, he'll just keep sliping out to his right"],
+		"4": ["Lemieux cannot accept the clinch if he wants to win this one"],
+		"5": ["Max laughs, that was good showboating"],
+		"7": ["Saunders lands heavy stuff for the first time"],
+		"8": ["eye-opening for me; man can really box"],
+		"10": [
+			"Lemieux lands a few, Saunders kinda coasting",
+			"Lemieux was crazy to come into this fight without a plan for the breaks"
+		],
+		"11": [
+			"good observation that, if you win on points, it pays to be the heel",
+			"if Lemieux won a round that was it"
+		],
+		"12": ["Saunders ran too much in that round for my taste"]
+
+	}
+}

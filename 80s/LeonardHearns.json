@@ -1,0 +1,43 @@
+{
+	"fighters": ["Leonard", "Hearns"],
+	"division": 147,
+	"fight_date": "1981.09.16",
+	"date_watched": "2018.01.12",
+	"scoring": {
+		"fighter1": [6,7,8,13,14],
+		"fighter2": [3,4,5,9,11,12],
+		"even": [1,2,10]
+	},
+	"comments_by_round": {
+		"2": [
+			"whoa! they used to show the judges scorecards",
+			"love Gil Clancy",
+			"Hearns nickname is correct, so damn quick" 
+		],
+		"3": ["great action in the last minute"],
+		"5": [
+			"Hearns 1 2 has to be up there for best all-time; the jab a definition of snap, the right a knockout punch",
+			"Hearns taking the round on jabs",
+			"like how the round cards at Caesar's Palace employ Roman numerals"
+		],
+		"6": [
+			"amazing uppercut by Sugar Ray that he brought up from the floor",
+			"Hearns is too proud and too angry at Leonard, should be holding but trying to knock him out and just taking damage"
+		],
+		"7": "Ray powerful and fluid, esp. to the body; Hearns doesn't have an answer defensively other than pushing",
+		"9": ["Hearns composed, flowing, cautious but not afraid", 
+			"touch gloves after the round, in a different space from the shit talking earlier"
+		],
+		"10": "good comment: 'as though each fighter is beginning the fight again' re: slow pace and reversal of roles "
+		"11": [
+			"Hearns starts coming forward for first time in 5 rounds",
+			"Hearns lands two good rights and a nice left hook to the body",
+			"Hearns, with a right lead and a short straightish hook up next, wins his best exchange of the fight"
+		]
+		"12": [
+			"Hearns can throw that right to the body and not have to set up again, so long is his reach",
+			"Leonard's left eye swollen"
+		]
+		"13": "difference between Ray and Floyd right there; what an offensive flurry"
+	}
+}

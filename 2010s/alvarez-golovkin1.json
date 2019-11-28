@@ -1,0 +1,82 @@
+{
+	"fighters": ["Alvarez", "Golovkin"],
+	"division": 160,
+	"fight_date": "2017.09.16",
+	"date_watched": "2018.02.01",
+	"scoring": {
+		"fighter1": [1,2,11],
+		"fighter2": [5,9,10],
+        "even": [3,4,6,7,8,12],
+        "second_time": "Canelo 1 2 7 11 GGG 4 even 3 5 6 8 9 10 12"
+	},
+	"themes": [
+		"Alvarez escaping out to his left as Golovkin misses with overhand right",
+		"Golovkin not going to the body",
+		"Golovkin jab",
+		"Alvarez quickness, esp. defensively"
+	],
+	"comments_by_round": {
+		"2": [
+			"Kellerman: I didn't see GGG land more punches Lampley: I did",
+			"Canelo took Floyd's counter right, looks good on him",
+			"GGG better defense than given credit for; less credit bc relies more on distance, anticipation than Saul upper body movement",
+			"Canelo not landing much solid but more inventive in his offense and more assertive despite on the back foot a bit more",
+			"Canelo hanging in the middle of the ring with GGG",
+			"Canelo trots to corner looking confident"
+		],
+		"3": [
+			"good three left hooks in a row from Golovkin",
+			"nice throwaway jab to distract from right to the body from Alvarez",
+			"Kellerman: he's being outboxed",
+			"nice short uppercut from Alvarez",
+			"left hook gets Canelo backing up again, would have been a Canelo round otherwise"
+		],
+		"4": [
+			"really interesting variation off the hook to the body from Canelo at 2:30",
+			"now a hard left to the body from Alvarez at 2:10",
+			"1:40 you can see that Canelo has a read on that overhand right coming",
+			"1:40 Canelo sits on the ropes and says ok",
+			"0:45 another good right to the body from Alvarez",
+			"Golovkin closes round well, jusssst might have won it, idk",
+			"this fight is proof that box stats are filler, at no point has it felt like Golovkin outlanded Alvarez"
+		],
+		"5": [
+			"totally agree with Roy that Canelo is doing what he wants, Golovkin might have eeked round 4 but Canelo choose to be on those ropes",
+			"Canelo does well to take himself off the ropes with that sally",
+			"first round I have for GGG that Byrd has for Alvarez"
+		],
+		"7": [
+			"0:50 left Alvarez defense on the ropes great, esp. to keep those body shots off"
+		],
+		"8": [
+			"according to CompuBox Golovkin outlanding Alvarez every round; don't believe that",
+			"damn hard jab by Golovkin at 2:45",
+			"at this point we don't know if Alvarez can take Golovkin power bc GGG hasn't landed anything heavy (for him)",
+			"Lampley is very partisan right now",
+			"beautiful uppercut from Alvarez at 0:45",
+			"Golovkin adjusting left hook to the body", 
+			"Sanchez techical in the corner, telling GGG to curve his straight right to catch Alvarez moving out to his left"
+		],
+		"9": [
+			"Golovkin uppercut at 2:30 looked hard but Alvarez slips",
+			"Lampley might as well by Flava Flav for GGG",
+			"despite Alvarez stamina issues in the past he looks fresher, or at least is breathing from his mouth less"
+		],
+		"10": [
+			"exchange at 2:45 shows Golovkin adjusting to the right uppercut from Canelo as GGG comes in",
+			"Canelo in this first minute showing his creativity and pizzazz",
+			"Golovkin landing many good hard jabs in this round",
+			"last exchange Golovkin won; Canelo knew it and tried to get in a flurry before the bell to win the judges back",
+			"funny, only round all the judges had for Canelo"
+		],
+		"11": [
+			"interesting defense by Golovkin at 1:30, almost like a Philly shell to cover up after throwing that overhand right",
+			"at 1:20, Canelo showing he learned the dark arts from Floyd, followed by another excellent combo",
+			"nice hook from GGG at 0:15"
+		],
+		"12": [
+			"very smart work by Alvarez; looks like more than it is, and most is landing a little and power shots thrown at 75%"
+		]
+
+	}
+}

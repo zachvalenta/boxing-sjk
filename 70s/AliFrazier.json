@@ -1,0 +1,55 @@
+{
+	"fighers": ["Ali", "Frazier"],
+	"division": 200+,
+	"fight_date": "1975.10.01",
+	"date_watched": "2018",
+	"scoring": {
+		"fighter1": [1,13,14],
+		"fighter2": [3,5,6,8,9],
+		"even": [2,4,7,10,11,12]
+	},
+	"comments_by_round": {
+		"1": [
+			"Frazier dips are extreme",
+			"strong left hook in the last minute from Ali"
+		],
+		"2": [
+			"I have never seen someone with Frazier's body movement",
+			"Ali scoring to the head, Frazier to the body"
+		],
+		"3": [
+			"idk how Ali is standing there on the ropes taking those body shots"
+		],
+		"4": [
+			"Frazier pivots creating openings on the ropes",
+			"Ali doesn't have uppercut proper but flurry with the shovel hook",
+			"crowd chants Ali to start the round, chants Frazier to the end the round"
+		],
+		"6": [
+			"strong lefts all round from Frazier, all coming from the dip",
+			"Ali does nothing all round",
+			"ref keeps pulling Ali's hand off Frazier's head but won't stop him"
+		],
+		"7": [
+			"Ali moving more, keeping Frazier at the end of his punches"
+		],
+		"8": [
+			"great action; Ali such a fluid puncher",
+			"I see this fight differently than the ringside announcers, who all have Ali ahead"
+		],
+		"9": [
+			"not much the first minute or so but Frazier takes it to him from then on"
+		],
+		"10": [
+			"whoever is calling for HBO is clearly partisan for Ali"
+		],
+		"13": [
+			"Ali catches Frazier coming in straight up and lands strong lefts and rights"
+		],
+		"14": [
+			"more than Ali smothering Frazier, Frazier smothers himself by getting too far inside when Ali not on the ropes",
+			"Ali won these past two rounds more definitively than other rounds in the fight"
+		],
+
+	}
+}
