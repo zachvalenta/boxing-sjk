@@ -26,3 +26,4 @@ other fights that I watched
 * _Crawford-Horn_: Horn's movement unorthodox, moderate success punching after initiating grapple, Bud has him figured out by round 3
 * _Garcia-Easter_: impressive that Mikey able to land the jab at such a reach disadvantage, great 9th round
 * _Gvozdyk-Stevenson_: Gvozdyk 3, 6, 11 Stevenson 1-2 even 10
+* _Usyk-Bellew_: like Loma, Usyk an intelligent pressure fighter

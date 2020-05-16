@@ -8,7 +8,7 @@ fight-date: 2019.06.01
 
 Joshua: 1-2, 4
 
-Diaz: 3, 5-7
+Ruiz: 3, 5-7
 
 even: 
 
